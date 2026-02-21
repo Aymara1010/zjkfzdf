@@ -3,7 +3,7 @@
 title: "Título del Trabajo Final"
 author:
    - hola bb
-   - Segundo participante
+   - Segundo participantekjhg
 date: "Febrero 2026"
 
 # --- Metadatos Específicos de Plantilla ---
