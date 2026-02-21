@@ -2,7 +2,7 @@
 # --- Metadatos Básicos ---
 title: "Título del Trabajo Final"
 author:
-   - hola
+   - hola bb
    - Segundo participante
    - Tercer participante
 date: "Febrero 2026"
